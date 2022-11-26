@@ -4,9 +4,3 @@ Colab adaptations AUTOMATIC1111 Webui and Dreambooth, train your model using thi
  
 ## <a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb">Training DreamBooth</a>
 ## <a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb">Stable Diffusion web UI</a>
-
-
-## Other Webuis 
-
-
-<a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_hlky.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/2.jpg'> </a> <a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_relaxed.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/3.jpg'></a>
