@@ -3,14 +3,10 @@ Colab adaptations AUTOMATIC1111 Webui and Dreambooth, train your model using thi
  
  
 <a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_AUTOMATIC1111.ipynb">
-<img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/1.jpg'></a>
-
-<a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/4.jpg'></a>
+<img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/1.jpg'></a> <a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast-DreamBooth.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/4.jpg'></a>
 
 
 ## Other Webuis 
 
 
-<a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_hlky.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/2.jpg'> </a>
-
-<a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_relaxed.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/3.jpg'></a>
+<a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_hlky.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/2.jpg'> </a> <a href="https://colab.research.google.com/github/devIndustrial/fast-stable-diffusion/blob/main/fast_stable_diffusion_relaxed.ipynb"><img src='https://github.com/devIndustrial/fast-stable-diffusion/raw/main/Dreambooth/3.jpg'></a>
